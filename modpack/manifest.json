@@ -19,409 +19,613 @@
       "projectID": 605375,
       "fileID": 8161766,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/idas",
+      "__name": "Integrated Dungeons and Structures",
+      "__author": "CraisinLord"
     },
     {
       "projectID": 243121,
       "fileID": 8146177,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/quark",
+      "__name": "Quark",
+      "__author": "Vazkii"
     },
     {
       "projectID": 1216624,
       "fileID": 8097174,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus",
+      "__name": "Create: Dragons Plus",
+      "__author": "DragonsPlus"
     },
     {
       "projectID": 328085,
       "fileID": 7963363,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/create",
+      "__name": "Create",
+      "__author": "simibubi"
     },
     {
       "projectID": 354047,
       "fileID": 7676612,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/ok-zoomer",
+      "__name": "Ok Zoomer - It's Zoom!",
+      "__author": "EnnuiLangeweile"
     },
     {
       "projectID": 239197,
       "fileID": 7772819,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker",
+      "__name": "CraftTweaker",
+      "__author": "Jaredlll08"
     },
     {
       "projectID": 1275340,
       "fileID": 7262775,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/delightful-creators-forge",
+      "__name": "Delightful Creators [Forge] (Create and Farmer's Delight Addon)",
+      "__author": "Flomik"
     },
     {
       "projectID": 1351997,
       "fileID": 7476105,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/create-o-plenty",
+      "__name": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)",
+      "__author": "Eggmain"
     },
     {
       "projectID": 560363,
       "fileID": 8055168,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/enchanted-witchcraft",
+      "__name": "Enchanted: Witchcraft",
+      "__author": "Favouriteless"
     },
     {
       "projectID": 790626,
       "fileID": 8141551,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+      "__name": "ModernFix",
+      "__author": "embeddedt"
     },
     {
       "projectID": 681783,
       "fileID": 7417271,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/emi-loot",
+      "__name": "EMI Loot",
+      "__author": "fzzyhmstrs"
     },
     {
       "projectID": 398521,
       "fileID": 8083481,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+      "__name": "Farmer's Delight",
+      "__author": "vectorwing"
     },
     {
       "projectID": 252848,
       "fileID": 7892954,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+      "__name": "Nature's Compass",
+      "__author": "Chaosyr"
     },
     {
       "projectID": 404465,
       "fileID": 7746959,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
+      "__name": "FTB Library (NeoForge)",
+      "__author": "FTB"
     },
     {
       "projectID": 255308,
       "fileID": 7043502,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/aether",
+      "__name": "The Aether",
+      "__author": "TheAetherTeam"
     },
     {
       "projectID": 701213,
       "fileID": 7357057,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/stateobserver",
+      "__name": "StateObserver",
+      "__author": "Favouriteless"
     },
     {
       "projectID": 549225,
       "fileID": 7530361,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/framework",
+      "__name": "Framework",
+      "__author": "MrCrayfish"
     },
     {
       "projectID": 429235,
       "fileID": 7524151,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+      "__name": "FerriteCore ((Neo)Forge)",
+      "__author": "malte0811"
     },
     {
       "projectID": 532610,
       "fileID": 6785734,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/owo-lib",
+      "__name": "o\u03c9o (owo-lib)",
+      "__author": "gliscowo"
     },
     {
       "projectID": 245755,
       "fileID": 8163145,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+      "__name": "Waystones",
+      "__author": "BlayTheNinth"
     },
     {
       "projectID": 1366188,
       "fileID": 7158323,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/banner-capes-reforged",
+      "__name": "Banner Capes ReForged",
+      "__author": "liedge"
     },
     {
       "projectID": 256717,
       "fileID": 5623731,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+      "__name": "Clumps",
+      "__author": "Jaredlll08"
     },
     {
       "projectID": 324717,
       "fileID": 7545219,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/jade",
+      "__name": "Jade \ud83d\udd0d",
+      "__author": "Snownee"
     },
     {
       "projectID": 968868,
       "fileID": 7980010,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/zeta",
+      "__name": "Zeta",
+      "__author": "Vazkii"
     },
     {
       "projectID": 908741,
       "fileID": 6118392,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+      "__name": "Embeddium",
+      "__author": "FiniteReality"
     },
     {
       "projectID": 897116,
       "fileID": 7473565,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture",
+      "__name": "MrCrayfish's Furniture Mod: Refurbished",
+      "__author": "MrCrayfish"
     },
     {
       "projectID": 386134,
       "fileID": 8078515,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge",
+      "__name": "FTB Ultimine (NeoForge)",
+      "__author": "FTB"
     },
     {
       "projectID": 936713,
       "fileID": 5733125,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/emi-enchanting",
+      "__name": "EMI Enchanting",
+      "__author": "fzzyhmstrs"
     },
     {
       "projectID": 531761,
       "fileID": 7420963,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/balm",
+      "__name": "Balm",
+      "__author": "BlayTheNinth"
     },
     {
       "projectID": 351264,
       "fileID": 7471280,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+      "__name": "Kotlin for Forge",
+      "__author": "thedarkcolour"
     },
     {
       "projectID": 686911,
       "fileID": 7537795,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+      "__name": "ImmediatelyFast",
+      "__author": "RaphiMC"
     },
     {
       "projectID": 1281336,
       "fileID": 7948263,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/hypertubes",
+      "__name": "Create: Hypertubes",
+      "__author": "Rokzin"
     },
     {
       "projectID": 1132038,
       "fileID": 8043293,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/modopedia",
+      "__name": "Modopedia",
+      "__author": "Favouriteless"
     },
     {
       "projectID": 940057,
       "fileID": 6054947,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge",
+      "__name": "TerraBlender (NeoForge)",
+      "__author": "TheAdubbz"
     },
     {
       "projectID": 410295,
       "fileID": 5453385,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+      "__name": "Konkrete",
+      "__author": "Keksuccino"
     },
     {
       "projectID": 938643,
       "fileID": 5453382,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/melody",
+      "__name": "Melody",
+      "__author": "Keksuccino"
     },
     {
       "projectID": 1065904,
       "fileID": 6231426,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/emi-professions-emip",
+      "__name": "EMI professions (EMIP)",
+      "__author": "Mrbysco"
     },
     {
       "projectID": 1327133,
       "fileID": 6889560,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/explore-ruins-aether",
+      "__name": "Explore Ruins: The Aether - Dungeons & Structures",
+      "__author": "NoCube"
     },
     {
       "projectID": 324973,
       "fileID": 7887320,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl",
+      "__name": "Dungeon Crawl",
+      "__author": "xiroc_"
     },
     {
       "projectID": 438332,
       "fileID": 5546996,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+      "__name": "SuperMartijn642's Config Lib",
+      "__author": "SuperMartijn642"
     },
     {
       "projectID": 854949,
       "fileID": 7471474,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+      "__name": "Fusion (Connected Textures)",
+      "__author": "SuperMartijn642"
     },
     {
       "projectID": 412082,
       "fileID": 8120873,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+      "__name": "Supplementaries",
+      "__author": "MehVahdJukaar"
     },
     {
       "projectID": 220318,
       "fileID": 7251965,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+      "__name": "Biomes O' Plenty",
+      "__author": "Forstride"
     },
     {
       "projectID": 454372,
       "fileID": 7783425,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+      "__name": "SuperMartijn642's Core Lib",
+      "__author": "SuperMartijn642"
     },
     {
       "projectID": 817709,
       "fileID": 7921681,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/integrated-api",
+      "__name": "Integrated API",
+      "__author": "CraisinLord"
     },
     {
       "projectID": 688768,
       "fileID": 7970748,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
+      "__name": "Create: Enchantment Industry",
+      "__author": "DragonsPlus"
     },
     {
       "projectID": 448233,
       "fileID": 8053771,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+      "__name": "Entity Culling Fabric/Forge",
+      "__author": "tr7zw"
     },
     {
       "projectID": 388172,
       "fileID": 7707149,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+      "__name": "GeckoLib",
+      "__author": "Gecko"
     },
     {
       "projectID": 263420,
       "fileID": 8046966,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+      "__name": "Xaero's Minimap",
+      "__author": "xaero96"
     },
     {
       "projectID": 955399,
       "fileID": 8109792,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/glitchcore",
+      "__name": "GlitchCore",
+      "__author": "TheAdubbz"
     },
     {
       "projectID": 974009,
       "fileID": 6060348,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/emi-ores",
+      "__name": "EMI Ores",
+      "__author": "Abbie34"
     },
     {
       "projectID": 858542,
       "fileID": 5831692,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+      "__name": "Searchables",
+      "__author": "Jaredlll08"
     },
     {
       "projectID": 60089,
       "fileID": 5637846,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "__name": "Mouse Tweaks",
+      "__author": "YaLTeR"
     },
     {
       "projectID": 521480,
       "fileID": 7857567,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+      "__name": "Skin Layers 3D",
+      "__author": "tr7zw"
     },
     {
       "projectID": 888624,
       "fileID": 7522529,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-create",
+      "__name": "Rechiseled: Create",
+      "__author": "SuperMartijn642"
     },
     {
       "projectID": 551736,
       "fileID": 6044477,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+      "__name": "Sodium/Embeddium Dynamic Lights",
+      "__author": "Txni"
     },
     {
       "projectID": 1005914,
       "fileID": 7568897,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+      "__name": "Fzzy Config",
+      "__author": "fzzyhmstrs"
     },
     {
       "projectID": 250398,
       "fileID": 6368976,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+      "__name": "Controlling",
+      "__author": "Jaredlll08"
     },
     {
       "projectID": 558998,
       "fileID": 7687594,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/rechiseled",
+      "__name": "Rechiseled",
+      "__author": "SuperMartijn642"
     },
     {
       "projectID": 580555,
       "fileID": 8081408,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/emi",
+      "__name": "EMI",
+      "__author": "EmilyPloszaj"
     },
     {
       "projectID": 419699,
       "fileID": 5786327,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+      "__name": "Architectury API",
+      "__author": "shedaniel"
     },
     {
       "projectID": 1088877,
       "fileID": 8130121,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/farmers-structures",
+      "__name": "Farmers Structures",
+      "__author": "BlackAuresArt"
     },
     {
       "projectID": 499980,
       "fileID": 8156754,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/selene",
+      "__name": "Moonlight Lib",
+      "__author": "MehVahdJukaar"
     },
     {
       "projectID": 1173950,
       "fileID": 8129788,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/guideme",
+      "__name": "GuideME",
+      "__author": "shartte"
     },
     {
       "projectID": 634062,
       "fileID": 5885735,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+      "__name": "No Chat Reports",
+      "__author": "Aizistral"
     },
     {
       "projectID": 230976,
       "fileID": 5849090,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay",
+      "__name": "Fast Leaf Decay",
+      "__author": "olafskiii"
     },
     {
       "projectID": 317780,
       "fileID": 8042208,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+      "__name": "Xaero's World Map",
+      "__author": "xaero96"
     },
     {
       "projectID": 439890,
       "fileID": 8083378,
       "required": true,
-      "isLocked": false
+      "isLocked": false,
+      "__link": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+      "__name": "Create Crafts & Additions",
+      "__author": "MRHminer"
     }
   ],
   "overrides": "overrides"
