@@ -3,12 +3,10 @@ import os
 import re
 import shutil
 from pathlib import Path
-from typing import Any
 
 # If this changes, the .gitignore file must be updated accordingly
 BUILD_DIR = ".build"
 MODPACK_DIR = "modpack"
-LINK_FILE = "links.json"
 LINK_FIELD = "__link"
 NAME_FIELD = "__name"
 AUTHOR_FIELD = "__author"
@@ -35,7 +33,7 @@ def write_manifest(manifest: dict, output_path: Path = Path(f"{MODPACK_DIR}/mani
     with open(output_path, "w") as f:
         json.dump(manifest, f, indent=2)
 
-def write_modlist(modlist: list[tuple[str, str, str | None]], output_path: Path = Path(f"{MODPACK_DIR}/modlist.html")):
+def write_modlist(modlist: list[tuple[str, str, str | None]], output_path: Path = Path(f"{MODPACK_DIR}/modlist.html"), sort_modlist: bool = False):
     """
     Write the modlist to an HTML file.
     :param modlist: A list of tuples containing (link, name, author).
@@ -44,6 +42,8 @@ def write_modlist(modlist: list[tuple[str, str, str | None]], output_path: Path 
     """
     with open(output_path, "w") as f:
         f.write("<ul>\n")
+        if sort_modlist:
+            modlist = sorted(modlist, key=lambda x: x[1])
         for link, name, author in modlist:
             if author:
                 f.write(f'  <li><a href="{link}">{name} (by {author})</a></li>\n')
@@ -61,7 +61,7 @@ def load_modlist() -> list[tuple[str, str, str | None]]:
         matches = re.findall(MODLIST_ENTRY_REGEX, content)
         return [(link, mod, author) for link, mod, author in matches]
 
-def add_info_to_manifest():
+def setup_modpack():
     manifest = load_manifest()
     modlist = load_modlist()
     manifest_files = manifest.get("files", [])
@@ -78,7 +78,10 @@ def add_info_to_manifest():
         else:
             print(f"Warning: No link found for project ID {project_id}")
 
+    manifest["files"] = sorted(manifest_files, key=lambda x: x.get(SORT_MANIFEST_AFTER, ""))
+
     write_manifest(manifest)
+    write_modlist(modlist, sort_modlist=True)
 
 def get_clean_manifest() -> dict:
     """
@@ -118,7 +121,7 @@ def main():
     import argparse
 
     actions = {
-        "setup": add_info_to_manifest,
+        "setup": setup_modpack,
         "compile": compile_modpack,
     }
 
