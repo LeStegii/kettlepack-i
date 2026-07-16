@@ -14,6 +14,7 @@
   "name": "KettlePack I",
   "version": "0.0.2",
   "author": "LeStegii",
+  "overrides": "overrides",
   "files": [
     {
       "projectID": 419699,
@@ -26,7 +27,7 @@
     },
     {
       "projectID": 531761,
-      "fileID": 8404826,
+      "fileID": 8424824,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/balm",
@@ -233,7 +234,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 8226923,
+      "fileID": 8438216,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
@@ -341,7 +342,7 @@
     },
     {
       "projectID": 1173950,
-      "fileID": 8129788,
+      "fileID": 8420861,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/guideme",
@@ -431,7 +432,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 8419104,
+      "fileID": 8426304,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/selene",
@@ -485,7 +486,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 8342602,
+      "fileID": 8420966,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/quark",
@@ -602,7 +603,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 8396507,
+      "fileID": 8424576,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
@@ -611,7 +612,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 8392576,
+      "fileID": 8424490,
       "required": true,
       "isLocked": false,
       "__link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
@@ -636,6 +637,5 @@
       "__name": "o\u03c9o (owo-lib)",
       "__author": "gliscowo"
     }
-  ],
-  "overrides": "overrides"
+  ]
 }
